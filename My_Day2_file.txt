@@ -1,0 +1,2 @@
+A web form is generally a collection of web elements like, text boxes, radio buttons, selection box etc. 
+And in web testing, we mostly face web forms and our 90% of testing revolves around web forms. 
